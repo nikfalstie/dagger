@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+Version 1.2.0 *(2013-11-25)*
+----------------------------
+
+ * Numerous performance improvements in both the compiler and runtime.
+ * Set bindings are now unioned when calling `.plus()`.
+ * Fix: Tolerate missing type information during compilation.
+
+
 Version 1.1.0 *(2013-08-05)*
 ----------------------------
 
